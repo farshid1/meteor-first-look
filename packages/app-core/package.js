@@ -51,6 +51,15 @@ Package.onUse(function(api) {
     'lib/client/templates/sidebar/user_panel.jade',
     'lib/client/templates/sidebar/side_search_form.jade',
     'lib/client/templates/sidebar/sidebar_menu.jade',
+    'lib/client/auth/auth_layout.jade',
+    'lib/client/auth/auth_form.jade',
+    'lib/client/auth/auth_form.coffee',
+    'lib/client/auth/templates/appAtInput.jade',
+    'lib/client/auth/templates/appAtInput.coffee',
+    'lib/client/auth/templates/appAtPwdLink.jade',
+    'lib/client/auth/templates/appAtPwdLink.coffee',
+    'lib/client/auth/templates/appAtPwdFormBtn.jade',
+    'lib/client/auth/templates/appAtPwdFormBtn.coffee',
     'public/images/avatar.png'
   ], 'client');
 

@@ -1,0 +1,1 @@
+#Template.auth_form.replaces 'atInput'

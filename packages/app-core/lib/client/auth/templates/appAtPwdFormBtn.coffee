@@ -1,0 +1,1 @@
+Template.appAtPwdFormBtn.replaces 'atPwdFormBtn'

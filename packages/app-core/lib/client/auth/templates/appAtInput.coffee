@@ -1,0 +1,1 @@
+Template.appAtInput.replaces 'atInput'

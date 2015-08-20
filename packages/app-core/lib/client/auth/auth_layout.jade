@@ -1,0 +1,12 @@
+template(name="auth_layout")
+    +AdminLTE
+        body.hold-transition.login-page
+            .login-box
+                .login-logo
+                    a(href='/')
+                        b Nostra
+                        | Damus
+                // /.login-logo
+                .login-box-body
+                    p.login-box-msg Sign in to start your session
+                    +yield

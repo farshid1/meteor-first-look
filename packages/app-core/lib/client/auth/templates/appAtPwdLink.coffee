@@ -1,0 +1,1 @@
+Template.appAtPwdLink.replaces 'atPwdLink'

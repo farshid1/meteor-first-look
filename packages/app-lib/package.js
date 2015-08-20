@@ -43,10 +43,10 @@ Package.onUse(function(api) {
     'iron:router@1.0.9',
     'u2622:persistent-session@0.4.1',
     'dburles:collection-helpers@0.3.2',
-    'alanning:roles@1.2.11',
+    'aldeed:template-extension@3.4.3',
 
     //style libraries
-    'twbs:bootstrap',
+    //'twbs:bootstrap',
     'fortawesome:fontawesome',
 
     //accounts
@@ -54,6 +54,7 @@ Package.onUse(function(api) {
     'useraccounts:unstyled@1.12.2',
     'useraccounts:iron-routing@1.12.2',
     'mfactory:admin-lte@0.0.2',
+    'alanning:roles@1.2.11',
     //'yogiben:admin@1.2.2',
 
     //development and testing
